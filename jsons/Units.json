@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Cat",
-		"unitType": "sword",
+		"unitType": "Sword",
 		"uniqueTo": "Cats",
 		"replaces": "Warrior",
 		"movement": 3,
