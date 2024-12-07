@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Cats",
+		"name": "Cat",
 		"unitType": "sword",
 		"uniqueTo": "Cats",
 		"replaces": "warrior",
@@ -8,7 +8,7 @@
 		"strength": 20,
 		"cost": 5,
 		"requiredTech": "animal husbandry",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"uniques": ["never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus"]
+		"promotions": ["Ignore terrain cost"],
 	}
 ]
