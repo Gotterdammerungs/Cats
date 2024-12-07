@@ -3,7 +3,7 @@
 		"name": "Cat",
 		"unitType": "sword",
 		"uniqueTo": "Cats",
-		"replaces": "warrior",
+		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 20,
 		"cost": 5,
