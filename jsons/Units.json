@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 20,
 		"cost": 5,
-		"requiredTech": "animal husbandry",
+		"requiredTech": "Animal Husbandry",
 		"uniques": ["never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus"]
 		"promotions": ["Ignore terrain cost"],
 	}
