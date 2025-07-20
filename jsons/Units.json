@@ -6,9 +6,33 @@
 		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 20,
-		"cost": 5,
+		"cost": 3,
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus"]
 		"promotions": ["Ignore terrain cost"],
+	},
+	{
+		"name": "Cat Car",
+		"unitType": "Civilian",
+		"uniqueTo": "Cats",
+		"movement": 5,
+		"cost": 325,
+		"requiredTech": "Biology",
+		"uniques": ["never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus","Can carry [4] [Land] units"]
+		"promotions": ["Ignore terrain cost"],
+	},
+	{	
+		"name": "Cat Tank",
+		"unitType": "Armored",
+		"uniqueTo": "Cats",
+		"replaces": "Tank",
+		"movement": 7,
+		"strength": 85,
+		"cost": 350,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Heals [20] damage if it kills a unit"],
+		"attackSound": "tankshot"
 	}
 ]
