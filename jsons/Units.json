@@ -11,17 +11,6 @@
 		"uniques": ["never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Ignore terrain cost"],
 	},
-	{
-		"name": "Cat Car",
-		"unitType": "Civilian",
-		"uniqueTo": "Cats",
-		"movement": 5,
-		"strength": 1,
-		"cost": 325,
-		"requiredTech": "Biology",
-		"uniques": ["never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus","Can carry [4] [Land] units"],
-		"promotions": ["Ignore terrain cost"],
-	},
 	{	
 		"name": "Cat Tank",
 		"unitType": "Armored",
